@@ -1,0 +1,11 @@
+# Windows / OS junk
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# VS Code workspace state
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+*.code-workspace
